@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @monktana.
 - 👀 I’m interested in webdev and pokemon.
-- 🌱 I’m currently learning angular and typescript.
+- 🌱 I’m currently trying out different things the js world has to offer.
