@@ -7,5 +7,5 @@
 
 <p align="center">
     <a href="https://github.com/monktana?tab=repositories&language=typescript" target="_blank"><img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
-    <a href="https://github.com/monktana?tab=repositories&language=dotnet" target="_blank"><img alt="dotnet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
+    <a href="https://github.com/monktana?tab=repositories&language=csharp" target="_blank"><img alt="dotnet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
 </p>
