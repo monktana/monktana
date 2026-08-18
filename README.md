@@ -39,13 +39,6 @@ Working through *Computer Networking: A Top-Down Approach*, building a home lab 
 
 Check out [sudoku](https://github.com/monktana/sudoku) — an ad-free Sudoku app — below, or browse [all repos](https://github.com/monktana?tab=repositories).
 
-### 📊 GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=monktana&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=monktana&hide_border=true" height="165" />
-</p>
-
 ### 📫 Reach me
 
 - LinkedIn: [in/sven-giebelmann](https://www.linkedin.com/in/sven-giebelmann)
