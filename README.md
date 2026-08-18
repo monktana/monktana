@@ -43,7 +43,7 @@ Check out [sudoku](https://github.com/monktana/sudoku) — an ad-free Sudoku app
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=monktana&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monktana&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=monktana&hide_border=true" height="165" />
 </p>
 
 ### 📫 Reach me
