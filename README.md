@@ -11,20 +11,27 @@
 ### 🧭 Currently
 
 - 💼 Fullstack Developer (Node.js) @ [BLUME2000 SE](https://github.com/Blume-2000-SE), Hamburg
-- 🎓 Starting a part-time B.Sc. in Applied Computer Science (IT Security specialization) @ Euro-FH — Aug 2026
-- 🔐 Self-studying ahead of the curriculum: networking fundamentals, web app security, home lab practice
+- 🎓 Studying part-time for a B.Sc. in Applied Computer Science (IT Security specialization) @ Euro-FH — since Aug 2026
+- 🔐 Self-studying alongside the curriculum: networking fundamentals, Windows and Linux command line, and writing up what I learn
 - 🎯 Aiming for AppSec / DevSecOps — using my dev background as the shortcut in, not starting from zero
 
 ### 🛠️ Currently learning / practicing
 
 <p align="left">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red" />
+</p>
+
+Working through TryHackMe (Windows Command Line, PowerShell, Linux Shells and the Networking module are done) and *Computer Networking: A Top-Down Approach*. The security modules don't show up in the curriculum until much later, so I'm not waiting around.
+
+### 🔜 Up next
+
+<p align="left">
   <img src="https://img.shields.io/badge/PortSwigger%20Academy-FF6633?style=flat-square&logo=Burp%20Suite&logoColor=white" />
   <img src="https://img.shields.io/badge/CompTIA%20Security%2B-CC0000?style=flat-square&logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
 </p>
 
-Working through *Computer Networking: A Top-Down Approach*, building a home lab (Kali, OWASP Juice Shop, DVWA), and picking apart MITRE ATT&CK / IEC 62443 in parallel to the degree — the security modules don't show up in the curriculum until much later, so I'm not waiting around.
+PortSwigger Web Security Academy, a home lab (Kali, OWASP Juice Shop, DVWA) and CompTIA Security+ are on the plan, but not started yet.
 
 ### 💻 Tech stack (the dev side)
 
@@ -37,7 +44,7 @@ Working through *Computer Networking: A Top-Down Approach*, building a home lab 
 
 ### 📌 Pinned work
 
-Check out [sudoku](https://github.com/monktana/sudoku) — an ad-free Sudoku app — below, or browse [all repos](https://github.com/monktana?tab=repositories).
+See [sudoku](https://github.com/monktana/sudoku) — an ad-free Sudoku app — or browse [all repos](https://github.com/monktana?tab=repositories).
 
 ### 📫 Reach me
 
